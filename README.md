@@ -132,9 +132,6 @@ The script will regenerate the CSV outputs and plots.
 - Add ROS 2 publishing/subscribing for real-time force-signal processing.
 - Integrate contact features into a reinforcement-learning manipulation pipeline.
 
-## CV description
-
-**Tactile/Force Signal Filtering and Contact Event Detection** — Developed a Python signal-processing pipeline for synthetic force/torque-like tactile data, including noise modeling, moving-average and Butterworth low-pass filtering, adaptive contact onset/release detection, feature extraction, and visualization of contact dynamics.
 
 ## Note
 
